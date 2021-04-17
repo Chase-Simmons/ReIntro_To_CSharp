@@ -6,7 +6,12 @@ namespace CS_re_Intro
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World");
+            string name = "John";
+
+            int age = 35;
+
+            Console.WriteLine(name);
+            Console.WriteLine(age);
 
             Console.ReadLine();
         }
