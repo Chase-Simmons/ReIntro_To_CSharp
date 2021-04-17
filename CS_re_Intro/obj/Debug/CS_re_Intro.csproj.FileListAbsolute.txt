@@ -1,0 +1,6 @@
+/Users/chase/Projects/CS_re_Intro/CS_re_Intro/obj/Debug/CS_re_Intro.csprojAssemblyReference.cache
+/Users/chase/Projects/CS_re_Intro/CS_re_Intro/obj/Debug/CS_re_Intro.csproj.CoreCompileInputs.cache
+/Users/chase/Projects/CS_re_Intro/CS_re_Intro/bin/Debug/CS_re_Intro.exe
+/Users/chase/Projects/CS_re_Intro/CS_re_Intro/bin/Debug/CS_re_Intro.pdb
+/Users/chase/Projects/CS_re_Intro/CS_re_Intro/obj/Debug/CS_re_Intro.exe
+/Users/chase/Projects/CS_re_Intro/CS_re_Intro/obj/Debug/CS_re_Intro.pdb
